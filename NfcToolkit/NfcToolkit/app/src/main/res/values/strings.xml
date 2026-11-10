@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC Toolkit</string>
+    <string name="hce_service_desc">NFC Toolkit tag sharing</string>
+    <string name="hce_aid_group_desc">Share a saved NDEF record as a tag</string>
+</resources>
